@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 - **Foco Principal**: Desenvolvimento front-end com ênfase em responsividade e usabilidade.
 - **Motivação**: Adoro transformar ideias em código funcional. Cada projeto é uma oportunidade para aprender e evoluir!
-- **Curiosidade**: Explorando chatbots e calculadoras interativas para melhorar a interação com usuários.
+- **Curiosidade**: Explorando chatbots e projetos para empresas, para melhorar a interação com usuários.
 
 ## 🛠️ Tecnologias que Uso
 Essas são as ferramentas que aparecem nos meus projetos. Estou sempre adicionando mais!
