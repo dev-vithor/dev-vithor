@@ -1,6 +1,6 @@
 # Olá, sou Vitor Manoel C. Ferreira! 👋
 
-🚀 **Sempre tentando ser melhor!** 🚀 Sou um entusiasta de desenvolvimento web, focado em criar interfaces simples e funcionais. Minha jornada envolve HTML, CSS e JavaScript para construir projetos práticos, como sites responsivos e validações interativas. Vamos codar juntos?
+ Sou um entusiasta de desenvolvimento web, focado em criar interfaces simples e funcionais. Minha jornada envolve HTML, CSS e JavaScript para construir projetos práticos, como sites responsivos e validações interativas. Vamos codar juntos?
 
 ![](https://komarev.com/ghpvc/?username=dev-vithor&color=00bfff&style=flat-square)
 
