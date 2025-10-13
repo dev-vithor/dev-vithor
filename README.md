@@ -75,9 +75,9 @@ Estou sempre contribuindo para open source e testando novas ideias. Se você tiv
 - Mantendo streak no GitHub para consistência diária.
 
 ## 📬 Entre em Contato
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/dev-vitormanoel/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](dev.vitormanoel@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/dev-vithor)
+[![Linkedin](https://img.shields.io/badge/-Vitor_Manoel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/dev-vitormanoel/)
+[![Gmail Badge](https://img.shields.io/badge/-dev.vitormanoel@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](dev.vitormanoel@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/dev-vithor?label=follow&style=social)](https://github.com/dev-vithor)
 
 Obrigado por visitar! Vamos colaborar em algo incrível. 😊
 
