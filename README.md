@@ -59,14 +59,7 @@ Aqui vão alguns dos meus repositórios favoritos, mostrando o que sei fazer. Ca
 - **[projeto-summary](https://github.com/dev-vithor/projeto-summary)**: Projeto inicial em HTML para resumir conceitos básicos de web.
 
 ## 🌱 Jornada de Aprendizado (Inovação Pessoal)
-Em vez de uma lista estática, criei esta seção como um "mapa de evolução" para mostrar meu progresso. Uso uma tabela simples para visualizar etapas:
 
-| Etapa | Foco | Tecnologias Usadas | O Que Aprendi |
-|-------|------|---------------------|--------------|
-| Iniciante | Estruturas Básicas | HTML | Como organizar conteúdo web de forma semântica. |
-| Intermediário | Estilos Responsivos | CSS | Técnicas para mobile-first e layouts flexíveis. |
-| Avançado | Interatividade | JavaScript | Validações de formulários e lógica simples. |
-| Futuro | Projetos Complexos | HTML/CSS/JS + Frameworks | Integrar APIs e criar apps full-stack (em breve!). |
 
 Estou sempre contribuindo para open source e testando novas ideias. Se você tiver sugestões, pull requests são bem-vindos!
 
