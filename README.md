@@ -127,7 +127,6 @@ Onde tudo começou — exercícios de fundamentos que mantenho públicos como re
 <div align="center">
 
 Aberto a oportunidades como desenvolvedor full stack, projetos sob medida e boas conversas sobre arquitetura de software.
-
 <br/>
 
 <a href="https://www.linkedin.com/in/dev-vitormanoel/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="56" alt="LinkedIn" /></a>
